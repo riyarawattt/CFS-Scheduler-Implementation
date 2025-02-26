@@ -18,8 +18,7 @@ This project emulates a simplified scheduling policy based on the Linux Complete
 3.  **Run the Scheduler**: Once the code is compiled, execute the following command to run the program:
 
     ```
-        ./scheduler
-
+    ./scheduler
     ```
 
     This will start the simplified scheduling process. The output in the terminal as the program executes each process based on the simplified CFS scheduler. The output will include detailed information about the processes being executed, such as process ID, priority updates, and execution times.
